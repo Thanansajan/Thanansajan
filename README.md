@@ -6,6 +6,9 @@
   <a href="https://www.linkedin.com/in/thanansajanr/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://wa.me/94778883674">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
+  </a>
   <a href="https://www.behance.net/RTcreation">
     <img src="https://img.shields.io/badge/Behance-red?style=for-the-badge&logo=Behance&logoColor=white" alt="Behance Badge"/>
   </a>
@@ -16,7 +19,11 @@
 </div>
   
 
-  <h1> Hi there. It's Thana... 👋 ,</h1>
+  <h1> Hi there. It's Thana... 👋 </h1>
+     <br /> <br />
+  <img src="https://komarev.com/ghpvc/?username=Thanansajan&style=flat-square&color=blue" alt="views" width="200px"/>
+</h3>
+
   ---
 
 ### 🙍‍♂️ About Me :
